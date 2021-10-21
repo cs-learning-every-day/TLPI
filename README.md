@@ -5,6 +5,7 @@
 - [TLPI](#tlpi)
   - [目录](#目录)
     - [环境搭建](#环境搭建)
+    - [CH3系统编程概念](#ch3系统编程概念)
 
 
 #### 环境搭建
@@ -42,3 +43,5 @@ sudo cp libtlpi.a /usr/local/lib
 ```
 g++ main.cpp -o main -ltlpi
 ```
+
+#### [CH3系统编程概念](./exercises/ch3/README.md)
