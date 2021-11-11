@@ -6,6 +6,7 @@
   - [目录](#目录)
     - [环境搭建](#环境搭建)
     - [CH3系统编程概念](#ch3系统编程概念)
+    - [CH4文件 I/O：通用的 I/O 模型](#ch4文件-io通用的-io-模型)
 
 
 #### 环境搭建
@@ -45,3 +46,4 @@ g++ main.cpp -o main -ltlpi
 ```
 
 #### [CH3系统编程概念](./exercises/ch3/README.md)
+#### [CH4文件 I/O：通用的 I/O 模型](./exercises/ch4/)
