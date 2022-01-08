@@ -8,6 +8,7 @@
     - [CH3系统编程概念](#ch3系统编程概念)
     - [CH4文件 I/O：通用的 I/O 模型](#ch4文件-io通用的-io-模型)
     - [CH5深入探究文件I/O](#ch5深入探究文件io)
+    - [CH6进程](#ch6进程)
 
 
 #### 环境搭建
@@ -49,3 +50,4 @@ g++ main.cpp -o main -ltlpi
 #### [CH3系统编程概念](./exercises/ch3/README.md)
 #### [CH4文件 I/O：通用的 I/O 模型](./exercises/ch4/)
 #### [CH5深入探究文件I/O](./exercises/ch5/README.md)
+#### [CH6进程](./exercises/ch6/README.md)
